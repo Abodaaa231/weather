@@ -1,0 +1,108 @@
+header {
+  background-color: #1e202b;
+}
+
+.navbarr a {
+  border-color: #009ad8;
+  color: #009ad8;
+  padding: 5px 25px;
+  border: 2px solid transparent;
+  border-radius: 30px;
+  color: white;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+  font-weight: 400;
+}
+
+.navbarr a:hover {
+  border-color: #009ad8;
+  color: white;
+}
+footer {
+  background-color: #262936;
+}
+.searchfooter button {
+  left: 82%;
+  top: 8%;
+}
+.searchfooter .search2 {
+  padding: 20px 100px 20px 20px;
+  background: #1e202b;
+  width: 100%;
+  color: white;
+}
+.logicc {
+  background-image: url(../banner.png);
+  background-repeat: no-repeat;
+}
+.logicc .searchfooter button {
+  left: 91%;
+  top: 37%;
+}
+body {
+  background-color: #1e202b;
+}
+.logicc .ss {
+  background-color: #1e202b;
+  color: white;
+  p {
+    margin: 0;
+  }
+}
+.logicc .cc {
+  color: rgb(191, 193, 200);
+}
+.logicc .nn {
+  background-color: #1e202b;
+}
+.ll {
+  background-color: #262936;
+  color: white;
+  p {
+    margin: 0;
+  }
+}
+.vv {
+  background-color: #1e202b;
+  color: white;
+}
+.nn p {
+  margin: 0;
+}
+.mm {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+  border-radius: 50%;
+  background: #1e202b;
+  color: #009ad8;
+  text-align: center;
+  line-height: 2;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+  font-size: 20px;
+  font-size: 1.4285714286em;
+}
+.mm:hover {
+  background-color: #009ad8;
+  color: white;
+}
+#colNum3 {
+  background-color: #262936;
+}
+#colNum1 {
+  background-color: #262936;
+}
+
+input {
+  z-index: 1;
+  border-radius: 25px !important;
+  padding: 15px !important;
+  background-color: #1e202b !important;
+  border: none !important;
+  color: white !important;
+}
+input::placeholder {
+  padding: 7px;
+  color: #75756b !important;
+}
